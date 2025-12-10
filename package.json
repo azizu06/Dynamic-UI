@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Creating a restaurant homepage to practice DOM manipulation and bundling modules using webpack.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
