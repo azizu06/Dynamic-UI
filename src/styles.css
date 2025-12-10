@@ -27,15 +27,14 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px solid black;
   margin: auto;
-  gap: 15px;
+  gap: 20px;
 }
 
 .imageContainer {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 20px;
 }
 
 .circles {
