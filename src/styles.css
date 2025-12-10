@@ -94,12 +94,16 @@ nav {
   flex-direction: column;
   gap: 20px;
   margin-top: 10px;
+  position: relative;
 }
 
 .items {
   display: flex;
+  position: absolute;
   flex-direction: column;
-  gap: 5px;
+  gap: 10px;
+  top: 150%;
+  z-index: 10;
 }
 
 .hide {
