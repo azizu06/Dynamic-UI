@@ -1,2 +1,2 @@
-# restaurant
-Creating a restaurant homepage to practice DOM manipulation and bundling modules using webpack.
+# DynamicUI
+Creating a drop down menu along with an image carousel.
