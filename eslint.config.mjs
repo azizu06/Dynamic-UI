@@ -13,6 +13,9 @@ export default [
         document: 'readonly',
         window: 'readonly',
       },
+      env: {
+        browser: true,
+      },
     },
     rules: {
       'no-unused-vars': 'warn',

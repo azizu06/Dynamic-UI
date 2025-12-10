@@ -8,4 +8,4 @@ const items = document.querySelector('.items');
 drop(dropdown, items);
 circleNav();
 slider();
-window.setInterval(slideRight, 5000);
+setInterval(slideRight, 2500);
